@@ -1,0 +1,6 @@
+{
+  "name": "StyleMyHair AI",
+  "description": "Your Personal AI Hairstyle Studio: upload your photo to analyze face shape, preview trending cuts, and generate realistic new hairstyles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
